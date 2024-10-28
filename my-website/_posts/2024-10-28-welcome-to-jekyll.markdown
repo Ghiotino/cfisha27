@@ -1,4 +1,3 @@
-<h1>{{ site.title }}</h1>
 ---
 layout: post
 title:  "Welcome to Jekyll!"
